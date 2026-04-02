@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan Huang
 - 👀 I’m interested in Computer Vision, Image Processing, Machine Learning, Deep Learning, etc.
-- 🌱 I’m currently doing research in both traditional Computer Vision and Deep Learning application in image/video processing.
+- 🌱 I’m currently doing research in Computer Vision in image/video processing.
 - 💞️ I’m looking to collaborate in this field.
 - 📫 I can be reached at jan.huang@aya.yale.edu
 
